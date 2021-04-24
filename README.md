@@ -1,1 +1,1 @@
-# myMinecraftWiki.com
+# myMinecraftWiki.github.io
